@@ -1,0 +1,93 @@
+/*Blocks*/
+
+.head-content{
+height: 376px;
+background: #FFFFFF;
+padding-bottom:28px;
+}
+
+.main-content{
+height: 308px;
+color:#ffffff;
+background: url("../img/mac.png");  
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.info-content{
+height: 323px;
+color: #ffffff;
+background: #23374F;
+text-align: center
+}
+
+.footer{
+height: 107px;
+background: #45B7E3;
+align-items: center;
+text-align:right;
+vertical-align: middle;
+color: #ffffff; 
+} 
+
+/*mode*/
+
+.head-content__style-bond__size-mode_head{
+width: 177px;
+height: 72px;
+padding-top: 4px;
+padding-bottom: 16px;
+}
+
+.head-content__style-bond__size-mode_main{
+height: 49px;
+padding-top: 30px;
+padding-bottom: 22px;
+}
+
+.head-content__style-bond__size-mode_info{
+height: 38px;
+padding-top: 9px;
+padding-bottom: 21px;
+}
+
+.head-content__style-bond__size-mode_footer{
+height: 61px;
+padding-top: 3px;
+padding-bottom: 23px;
+}
+
+/*style type*/ 
+
+.head-content__style-bond{
+ font-style: normal;
+ font-weight: bold;
+ font-size: 48px;
+ padding-top: 24px;
+ padding-bottom: 16px;
+}
+.main-content__style-bond{
+ font-style: normal;
+ font-weight: bold;
+ font-size: 48px;
+ padding-top: 24px;
+ padding-bottom: 16px;
+}
+
+.head-content__style-small{
+font-weight: 300;
+font-size: 36px;
+line-height: 54px;
+color: black;
+}
+
+.head-content__style-middle{
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 72px;
+}
+
+
+
+

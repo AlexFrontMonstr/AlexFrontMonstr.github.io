@@ -1,0 +1,17 @@
+container{
+width: 1180px;
+padding: 20px;
+}
+
+p{
+margin: 0;
+}
+
+a{
+color: #ffffff;
+}
+
+body{
+font-family: open Sans Condensed;
+margin: 0 auto;
+}
