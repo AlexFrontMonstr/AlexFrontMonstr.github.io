@@ -1,16 +1,15 @@
-container{
+.container{
 width: 1180px;
+margin: 0 auto;
 padding: 20px;
 }
 
 p{
 margin: 0;
 }
-
 a{
-color: #ffffff;
+    text-decoration: none;
 }
-
 body{
 font-family: open Sans Condensed;
 margin: 0 auto;
